@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net" modified="2023-10-24T13:46:30.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="wyotE3HvaH1VLIwttEX3" version="22.0.6" type="device">
+  <diagram name="Pagina-1" id="RnD8EvsY3p-6yyRr2K5t">
+    <mxGraphModel dx="1393" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OEM7S-h-QSyZMPBdhCxB-2" target="OEM7S-h-QSyZMPBdhCxB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-2" value="apro netflix" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-11" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OEM7S-h-QSyZMPBdhCxB-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OEM7S-h-QSyZMPBdhCxB-7" target="OEM7S-h-QSyZMPBdhCxB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-7" value="sono da solo?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-27" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OEM7S-h-QSyZMPBdhCxB-12" target="OEM7S-h-QSyZMPBdhCxB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OEM7S-h-QSyZMPBdhCxB-12" target="OEM7S-h-QSyZMPBdhCxB-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-12" value="ho tanto tempo?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-19" value="guardo un film" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OEM7S-h-QSyZMPBdhCxB-20" target="OEM7S-h-QSyZMPBdhCxB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-20" value="guardo una puntata" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEM7S-h-QSyZMPBdhCxB-22" target="OEM7S-h-QSyZMPBdhCxB-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="720" />
+              <mxPoint x="120" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEM7S-h-QSyZMPBdhCxB-22" target="OEM7S-h-QSyZMPBdhCxB-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-22" value="ho ancora tempo?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OEM7S-h-QSyZMPBdhCxB-25" value="chiudo netflix" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
